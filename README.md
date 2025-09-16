@@ -97,18 +97,6 @@ npm start
 
 ---
 
-## .gitignore
-
-```
-# Python
-__pycache__/
-*.db
-venv/
-
-# Node
-node_modules/
-build/
-```
 
 ---
 
